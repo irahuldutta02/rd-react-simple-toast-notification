@@ -24,7 +24,7 @@ Initialize the useNotification hook with your preferred position:
 
 ```jsx
 const { NotificationComponent, triggerNotification } =
-  useNotification("top-left");
+  useNotification("top-right");
 ```
 
 #### Positions
@@ -101,7 +101,7 @@ import useNotification from "rd-react-simple-toast-notification";
 
 function App() {
   const { NotificationComponent, triggerNotification } =
-    useNotification("top-left");
+    useNotification("top-right");
 
   const handleButtonClick = () => {
     triggerNotification({
