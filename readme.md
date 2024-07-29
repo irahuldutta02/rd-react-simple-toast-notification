@@ -2,6 +2,10 @@
 
 rd-react-simple-toast-notification is a simple and customizable toast notification component for React applications.
 
+## Preview
+
+![preview](https://github.com/user-attachments/assets/3f9a1a72-e0d6-4b38-b542-028c94840759)
+
 ## Installation
 
 You can install rd-react-simple-toast-notification via npm:
